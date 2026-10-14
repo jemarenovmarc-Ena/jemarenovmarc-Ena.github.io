@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jemarenovmarc-ena.github.io/sitemap.xml
